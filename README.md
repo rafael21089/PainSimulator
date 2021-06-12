@@ -1,9 +1,11 @@
 # PainSimulator
 
+Grupo PainSimulator
+
 By:
 
-Rafael Silva n:21089
-Davickson Correia n: 19725
+Rafael Silva n:21089 ,
+Davickson Correia n: 19725 ,
 Nicholas Sado n: 16068
 
 
